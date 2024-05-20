@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cover": "Nature's Beauty",
+    "cover_img": "https://i.ibb.co/fng6m3Z/img1.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/4jjdTYf/auth1.jpg",
+    "title": "Exploring the Wilderness",
+    "update_time": "15 May (2 days ago)",
+    "hashtag": ["#nature", "#exploration"],
+    "reading_time": 15
+  },
+  {
+    "id": 2,
+    "cover": "Cityscape",
+    "cover_img": "https://i.ibb.co/K5nRHM6/img2.jpg",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/SxSJ890/auth2.jpg",
+    "title": "Urban Adventures",
+    "update_time": "15 May (2 days ago)",
+    "hashtag": ["#citylife", "#adventure"],
+    "reading_time": 20
+  },
+  {
+    "id": 3,
+    "cover": "Historical",
+    "cover_img": "https://i.ibb.co/tDqKxj2/img3.jpg",
+    "author": "David Brown",
+    "author_img": "https://i.ibb.co/jfGHp0S/auth3.jpg",
+    "title": "Journey Through Time",
+    "update_time": "15 May (2 days ago)",
+    "hashtag": ["#history", "#time_travel"],
+    "reading_time": 25
+  },
+  {
+    "id": 4,
+    "cover": "Technology",
+    "cover_img": "https://i.ibb.co/932nk2Z/img4.jpg",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co/71cBL7v/auth4.jpg",
+    "title": "Innovations of Tomorrow",
+    "update_time": "15 May (2 days ago)",
+    "hashtag": ["#technology", "#innovation"],
+    "reading_time": 18
+  },
+  {
+    "id": 5,
+    "cover": "Cuisine",
+    "cover_img": "https://i.ibb.co/7QQ6wJ0/img5.jpg",
+    "author": "Michael Johnson",
+    "author_img": "https://i.ibb.co/0tVmVjv/auth5.jpg",
+    "title": "Culinary Delights",
+    "update_time": "15 May (2 days ago)",
+    "hashtag": ["#food", "#culinary"],
+    "reading_time": 30
+  }
+]
